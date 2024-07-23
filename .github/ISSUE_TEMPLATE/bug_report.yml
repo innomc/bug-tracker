@@ -1,5 +1,5 @@
 name: 錯誤回報
-description: 回報遊戲中的錯誤
+about: 回報遊戲中的錯誤
 labels: [bug]
 body:
 - type: textarea
