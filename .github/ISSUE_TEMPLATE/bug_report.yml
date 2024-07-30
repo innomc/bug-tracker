@@ -26,5 +26,5 @@ body:
   attributes:
     label: "這個錯誤尚未被回報"
     options:
-    - label: "我已經看過所有錯誤且這個錯誤尚未被回報"
+    - label: "我已經看過所有已回報的錯誤且這個錯誤尚未被回報"
       required: true
